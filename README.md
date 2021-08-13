@@ -1,6 +1,8 @@
 # pyqt5-uart
 使用pyqt5的串口助手
 
+程序：在分支master中
+
 环境：Python3.7+pyqt5
 
 版本：1.0
